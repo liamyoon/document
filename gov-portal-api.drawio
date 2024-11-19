@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MAJEZ90XkeM7kgui7ea2-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="625" y="485" width="350" height="140" as="geometry" />
+          <mxGeometry x="660" y="485" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-63" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="625" y="280" width="350" height="140" as="geometry" />
+          <mxGeometry x="660" y="280" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="370" height="540" as="geometry" />
@@ -33,12 +33,17 @@
         <mxCell id="MAJEZ90XkeM7kgui7ea2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MAJEZ90XkeM7kgui7ea2-9" target="MAJEZ90XkeM7kgui7ea2-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MAJEZ90XkeM7kgui7ea2-9" value="Authorization Middleware&lt;br&gt;set bearer token" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="MAJEZ90XkeM7kgui7ea2-9" value="Authorization Middleware" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="250" y="525" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAJEZ90XkeM7kgui7ea2-10" target="MAJEZ90XkeM7kgui7ea2-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAJEZ90XkeM7kgui7ea2-69" value="set bearer token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="MAJEZ90XkeM7kgui7ea2-44">
+          <mxGeometry x="-0.2952" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-10" value="Proxy Middleware" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -50,7 +55,7 @@
             <mxPoint x="530" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MAJEZ90XkeM7kgui7ea2-23" value="sign in azure" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MAJEZ90XkeM7kgui7ea2-22">
+        <mxCell id="MAJEZ90XkeM7kgui7ea2-23" value="sign in azure" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="MAJEZ90XkeM7kgui7ea2-22">
           <mxGeometry x="0.2" y="2" relative="1" as="geometry">
             <mxPoint x="-14" y="-7" as="offset" />
           </mxGeometry>
@@ -69,18 +74,18 @@
           <mxGeometry x="250" y="330" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-16" value="Microsoft Azure" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="720" y="290" width="160" height="30" as="geometry" />
+          <mxGeometry x="755" y="290" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="MAJEZ90XkeM7kgui7ea2-17" target="MAJEZ90XkeM7kgui7ea2-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MAJEZ90XkeM7kgui7ea2-20" value="response token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MAJEZ90XkeM7kgui7ea2-19">
+        <mxCell id="MAJEZ90XkeM7kgui7ea2-20" value="response token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="MAJEZ90XkeM7kgui7ea2-19">
           <mxGeometry x="0.1714" y="4" relative="1" as="geometry">
             <mxPoint x="23" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-17" value="passport azure ad passport&lt;div&gt;create token&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="650" y="330" width="140" height="60" as="geometry" />
+          <mxGeometry x="685" y="330" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="MAJEZ90XkeM7kgui7ea2-28" target="MAJEZ90XkeM7kgui7ea2-35">
           <mxGeometry relative="1" as="geometry">
@@ -97,15 +102,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-28" value="/subscriptions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="525" width="140" height="60" as="geometry" />
+          <mxGeometry x="685" y="525" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-29" value="Core API(spring boot)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="640" y="490" width="160" height="30" as="geometry" />
+          <mxGeometry x="675" y="490" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MAJEZ90XkeM7kgui7ea2-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MAJEZ90XkeM7kgui7ea2-9">
+        <mxCell id="MAJEZ90XkeM7kgui7ea2-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MAJEZ90XkeM7kgui7ea2-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="385" as="sourcePoint" />
-            <mxPoint x="310" y="525" as="targetPoint" />
+            <mxPoint x="70" y="390" as="sourcePoint" />
+            <mxPoint x="250" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-31" value="get /portal-api/subscriptions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MAJEZ90XkeM7kgui7ea2-30">
@@ -149,10 +154,10 @@
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="MAJEZ90XkeM7kgui7ea2-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="570" as="targetPoint" />
-            <mxPoint x="880" y="390" as="sourcePoint" />
+            <mxPoint x="825" y="570" as="targetPoint" />
+            <mxPoint x="915" y="390" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="880" y="555" />
+              <mxPoint x="915" y="555" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,11 +167,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-56" value="azure subscriptions api" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="810" y="330" width="140" height="60" as="geometry" />
+          <mxGeometry x="845" y="330" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.329;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MAJEZ90XkeM7kgui7ea2-28" target="MAJEZ90XkeM7kgui7ea2-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="540" as="sourcePoint" />
+            <mxPoint x="835" y="540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-61" value="reqeust subscriptions api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MAJEZ90XkeM7kgui7ea2-59">
