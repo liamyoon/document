@@ -33,7 +33,7 @@
         <mxCell id="MAJEZ90XkeM7kgui7ea2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MAJEZ90XkeM7kgui7ea2-9" target="MAJEZ90XkeM7kgui7ea2-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MAJEZ90XkeM7kgui7ea2-9" value="Authorization Middleware" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="MAJEZ90XkeM7kgui7ea2-9" value="Authorization Middleware&lt;div&gt;token verify&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="250" y="525" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAJEZ90XkeM7kgui7ea2-10" target="MAJEZ90XkeM7kgui7ea2-28">
@@ -149,7 +149,7 @@
             <mxPoint x="22" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MAJEZ90XkeM7kgui7ea2-52" value="Authorization Middleware&lt;br&gt;set bearer token" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="MAJEZ90XkeM7kgui7ea2-52" value="Authorization Middleware&lt;div&gt;token verify&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="250" y="730" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="MAJEZ90XkeM7kgui7ea2-28">
