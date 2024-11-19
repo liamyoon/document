@@ -91,14 +91,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="720" y="650" />
+              <mxPoint x="755" y="650" />
               <mxPoint x="40" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-55" value="response subscriptions data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MAJEZ90XkeM7kgui7ea2-54">
           <mxGeometry x="-0.799" y="3" relative="1" as="geometry">
-            <mxPoint x="2" y="7" as="offset" />
+            <mxPoint x="-35" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MAJEZ90XkeM7kgui7ea2-28" value="/subscriptions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
